@@ -1,4 +1,4 @@
-SparkFun LIDAR Lite v4
+SparkFun Qwiic LIDAR Lite v4
 ========================================
 
 
@@ -42,6 +42,6 @@ If you have any questions or concerns on licensing, please contact technical sup
 
 Distributed as-is; no warranty is given.
 
-- Your friends at Sparkfun.
+- Your friends at SparkFun.
 
 _<COLLABORATION CREDIT>_
